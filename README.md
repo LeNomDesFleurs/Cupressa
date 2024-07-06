@@ -14,5 +14,6 @@ The gradient String is
 I stole it on [this SO](https://stackoverflow.com/questions/30097953/ascii-art-sorting-an-array-of-ascii-characters-by-brightness-levels-c-c)
 
 ![sphere](spheres.gif)
+(the gif is laggy)
 
 *Cupressaceae* is a conifer family. At first, the name should have been *Cryptomeria*, but I didn't want people to mistake this for a crypto currency project...
