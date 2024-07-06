@@ -7,11 +7,11 @@
         {
             "type": "lldb",
             "request": "launch",
-            "name": "Debug executable 'Laminaria'",
+            "name": "Debug executable 'cupressa'",
             "cargo": {
-                "args": ["build", "--bin=Laminaria", "--package=Laminaria"],
+                "args": ["build", "--bin=cupressa", "--package=cupressa"],
                 "filter": {
-                    "name": "Laminaria",
+                    "name": "cupressa",
                     "kind": "bin"
                 }
             },
@@ -21,11 +21,11 @@
         {
             "type": "lldb",
             "request": "launch",
-            "name": "Debug unit tests in executable 'Laminaria'",
+            "name": "Debug unit tests in executable 'cupressa'",
             "cargo": {
-                "args": ["test", "--no-run", "--bin=Laminaria", "--package=Laminaria"],
+                "args": ["test", "--no-run", "--bin=cupressa", "--package=cupressa"],
                 "filter": {
-                    "name": "Laminaria",
+                    "name": "cupressa",
                     "kind": "bin"
                 }
             },
